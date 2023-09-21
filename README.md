@@ -1,7 +1,10 @@
 # Analysing-Banking-Trends-Customer-Transactions-and-Regional-Impact
 
 In the dynamic world of banking and finance, understanding customer behavior and transaction impacts on regions is vital for decision-making. Our project, "Analyzing Banking Trends: Customer Transactions and Regional Impact," uses Python data cleaning and SQL queries to uncover trends in customer transactions and their potential effects on global banking. Our goal is to identify patterns that could influence regional economies and financial systems.
-Project Description
+
+
+
+Project Description:
 In the ever-evolving world of banking and finance, understanding customer behavior and the regional impact of transactions plays a crucial role in decision-making and strategic planning. This project, titled "Analyzing Banking Trends: Customer Transactions and Regional Impact," aims to explore and analyze the vast troves of transaction data to gain valuable insights into customer behavior patterns and their implications on different world regions.
 Objective: The primary objective of this project is to delve into customer transactions and identify trends that may impact regional economies and financial systems. By combining data cleaning techniques in Python and utilizing SQL queries on a set of interconnected tables, we aim to gain a comprehensive understanding of how customer transactions vary across different regions and the possible implications on the banking sector.
 Data Sources: The project leverages three key tables that provide valuable information for analysis:
